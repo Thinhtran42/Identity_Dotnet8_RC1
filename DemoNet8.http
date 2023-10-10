@@ -1,0 +1,6 @@
+@DemoNet8_HostAddress = http://localhost:5160
+
+GET {{DemoNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
